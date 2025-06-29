@@ -24,7 +24,6 @@ The Bug Tracking System project accommodates multiple user roles, including test
   - Send email notifications to assigned developers with comprehensive bug details.
   - Host chat rooms for direct communication with developers.
 
-
 ### Developer 🧑‍💻
   - View all bugs assigned to them.
   - Update the status of assigned bugs as they progress in resolving them.
