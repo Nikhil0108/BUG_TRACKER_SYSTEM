@@ -64,6 +64,5 @@ public class EmailData {
   + "Port Number: " + port + "\n\n"
   + "Thank you,\n"
   + testerName;
-
   }
 }
