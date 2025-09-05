@@ -22,6 +22,7 @@ public class Client {
     }
   }
 
+  
   public void sendMessage() {
 
       Thread thread = new Thread(new Runnable() {
