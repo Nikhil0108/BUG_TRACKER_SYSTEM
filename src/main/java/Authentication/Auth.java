@@ -13,7 +13,6 @@ import javax.swing.JFrame;
 public class Auth extends JFrame {
 
   // MySQL database connection parameters
-
 private static final String DB_URL = "jdbc:mysql://localhost:3306/sql7621761";
 private static final String DB_USERNAME = "root";         // your mysql username, usually root
 private static final String DB_PASSWORD = "****"; // your MySQL root (or user) password
