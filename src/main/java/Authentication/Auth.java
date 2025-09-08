@@ -18,7 +18,6 @@ private static final String DB_URL = "jdbc:mysql://localhost:3306/sql7621761";
 private static final String DB_USERNAME = "root";         // your mysql username, usually root
 private static final String DB_PASSWORD = "****"; // your MySQL root (or user) password
 
-
   public static boolean authenticateUser(String email, String password, String table) {
     // Establish database connection and execute query
     try (Connection connection = DriverManager.getConnection(DB_URL, DB_USERNAME, DB_PASSWORD);
