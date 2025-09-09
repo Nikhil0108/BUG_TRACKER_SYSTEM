@@ -27,6 +27,7 @@ import javax.swing.JTextArea;
 import javax.swing.JComboBox;
 import javax.swing.JEditorPane;
 
+
 public class AuthGUI extends JFrame {
 
   HomePage home = new HomePage();
