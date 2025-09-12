@@ -28,6 +28,7 @@ import org.jsoup.select.Elements;
 
 public class Developer {
   public static void search() {
+    
     final JFrame SearchFrame = new JFrame("Search window");
     SearchFrame.setSize(500, 500);
     SearchFrame.setLocationRelativeTo(null);
