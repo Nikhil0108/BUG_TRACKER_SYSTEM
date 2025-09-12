@@ -19,6 +19,7 @@ public class Performance {
     return (numtesterbugs * sum) / (double) numofallbugs;
 }
 
+  
 public static double Developer(int numdevbugs, List<String> bugpriorityList, List<String> levels, List<Long> timeList) {
     int sum = 0;          // Initialize the sum variable to 0
     int timescore = 0;    // Initialize the timescore variable to 0
