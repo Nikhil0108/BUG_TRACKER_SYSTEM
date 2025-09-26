@@ -29,7 +29,6 @@ private static final String DB_USERNAME = "root";         // your mysql username
 private static final String DB_PASSWORD = "****"; // your MySQL root (or user) password
 
 
-
   public static List<String> getColumnValues(String columnName, String table) {
     List<String> columnValues = new ArrayList<>();
     try {
