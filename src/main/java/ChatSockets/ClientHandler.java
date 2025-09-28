@@ -73,7 +73,6 @@ public class ClientHandler implements Runnable {
         broadcastMessage("SERVER: " + clientUsername + " has left the chat");
     }
 
-
     public void closeEverything(Socket socket, BufferedReader bufferedReader, BufferedWriter bufferedWriter) {
         removeClientHandler();
         try {
